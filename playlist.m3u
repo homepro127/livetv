@@ -50,6 +50,33 @@ http://5.62.130.10/iptv/iptv/31.ts
 #EXTINF:-1 tvg-logo="http://5.62.130.10:80/images/bein3.png" group-title="Sports",beIN SPORT 03 SD
 http://5.62.130.10/iptv/iptv/39.ts
 
+#EXTINF:-1 tvg-logo="http://5.62.130.10:80/images/bein1.png" group-title="BEIN SPORT SD" ,Bein Sport SD1
+http://ktm42.xyz:2052/313516296760/PANO6600a910ce53d.24762/24920
+
+#EXTINF:-1 tvg-logo="http://5.62.130.10:80/images/bein2.png"group-title="BEIN SPORT SD" ,Bein Sport SD2
+http://ktm42.xyz:2052/313516296760/PANO6600a910ce53d.24762/24921
+
+#EXTINF:-1 tvg-logo="http://5.62.130.10:80/images/bein3.png" group-title="BEIN SPORT SD" ,Bein Sport SD3
+http://ktm42.xyz:2052/313516296760/PANO6600a910ce53d.24762/24922
+
+#EXTINF:-1 tvg-logo="http://5.62.130.10:80/images/bein4.png" group-title="BEIN SPORT SD" ,Bein Sport SD4
+http://ktm42.xyz:2052/313516296760/PANO6600a910ce53d.24762/24923
+
+#EXTINF:-1 tvg-logo="http://5.62.130.10:80/images/bein5.png" group-title="BEIN SPORT SD" ,Bein Sport SD5
+http://ktm42.xyz:2052/313516296760/PANO6600a910ce53d.24762/24924
+
+#EXTINF:-1 tvg-logo="http://5.62.130.10:80/images/bein6.png" group-title="BEIN SPORT SD" ,Bein Sport SD6
+http://ktm42.xyz:2052/313516296760/PANO6600a910ce53d.24762/24925
+
+#EXTINF:-1 tvg-logo="http://5.62.130.10:80/images/bein7.png" group-title="BEIN SPORT SD" ,Bein Sport SD7
+http://ktm42.xyz:2052/313516296760/PANO6600a910ce53d.24762/24926
+
+#EXTINF:-1 tvg-logo="http://5.62.130.10:80/images/bein8.png" group-title="BEIN SPORT SD" ,Bein Sport SD8
+http://ktm42.xyz:2052/313516296760/PANO6600a910ce53d.24762/24927
+
+#EXTINF:-1 tvg-logo="http://5.62.130.10:80/images/bein9.png" group-title="BEIN SPORT SD" ,Bein Sport SD9
+http://ktm42.xyz:2052/313516296760/PANO6600a910ce53d.24762/24928
+
 #EXTINF:-1 tvg-id="PlayboyTV.us" tvg-logo="https://logowik.com/content/uploads/images/playboy-rabbit-con1504.logowik.com.webp" group-title="✦ ADULTS ✦",Playboy
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 

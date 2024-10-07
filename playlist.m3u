@@ -33,25 +33,25 @@ http://15.235.212.156:25461/live/MM664662/MM664665/18.ts
 http://15.235.212.156:25461/live/MM664662/MM664665/19.ts
 
 #EXTINF:-1 tvg-logo="http://5.62.130.10:80/images/bein1.png" group-title="Sports",beIN SPORT 01 HD
-http://ktm42.xyz:2052/313516296760/PANO6600a910ce53d.24762/24929
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:04:07&stream=192767&extension=ts
 
 #EXTINF:-1 tvg-logo="http://5.62.130.10:80/images/bein2.png" group-title="Sports",beIN SPORT 02 HD
-http://ktm42.xyz:2052/313516296760/PANO6600a910ce53d.24762/24930
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:04:07&stream=192766&extension=ts
 
 #EXTINF:-1 tvg-logo="http://5.62.130.10:80/images/bein3.png" group-title="Sports",beIN SPORT 03 HD
-http://ktm42.xyz:2052/313516296760/PANO6600a910ce53d.24762/24931
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:04:07&stream=192765&extension=ts
 
 #EXTINF:-1 tvg-logo="http://5.62.130.10:80/images/bein4.png" group-title="Sports",beIN SPORT 04 HD
 http://ktm42.xyz:2052/313516296760/PANO6600a910ce53d.24762/24932
 
 #EXTINF:-1 tvg-logo="http://5.62.130.10:80/images/bein1.png" group-title="Sports",beIN SPORT 01 SD
-http://ktm42.xyz:2052/313516296760/PANO6600a910ce53d.24762/24920
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:04:07&stream=192764&extension=ts
 
 #EXTINF:-1 tvg-logo="http://5.62.130.10:80/images/bein2.png" group-title="Sports",beIN SPORT 02 SD
-http://ktm42.xyz:2052/313516296760/PANO6600a910ce53d.24762/24921
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:04:07&stream=192753&extension=ts
 
 #EXTINF:-1 tvg-logo="http://5.62.130.10:80/images/bein3.png" group-title="Sports",beIN SPORT 03 SD
-http://ktm42.xyz:2052/313516296760/PANO6600a910ce53d.24762/24922
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:04:07&stream=192752&extension=ts
 
 #EXTINF:-1 tvg-logo="http://5.62.130.10:80/images/bein4.png" group-title="Sports",beIN SPORT 04 SD
-http://ktm42.xyz:2052/313516296760/PANO6600a910ce53d.24762/24923
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:04:07&stream=192751&extension=ts

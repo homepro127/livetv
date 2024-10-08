@@ -42,7 +42,7 @@ http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:04:07&stream=192766&exte
 http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:04:07&stream=192765&extension=ts
 
 #EXTINF:-1 tvg-logo="http://5.62.130.10:80/images/bein4.png" group-title="Sports",beIN SPORT 04 HD
-http://ktm42.xyz:2052/313516296760/PANO6600a910ce53d.24762/24932
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:04:07&stream=192764&extension=ts
 
 #EXTINF:-1 tvg-logo="http://5.62.130.10:80/images/bein1.png" group-title="Sports",beIN SPORT 01 SD
 http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:04:07&stream=192764&extension=ts
